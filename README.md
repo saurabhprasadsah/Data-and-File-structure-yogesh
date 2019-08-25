@@ -2,7 +2,7 @@
 # IGNOU
 # COURSE CODE - MCS021
 THIS Repositories is really help to IGNOU student.
-# Test
+
 # syllabus
 
 ->Memory Allocation 
