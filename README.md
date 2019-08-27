@@ -1,9 +1,9 @@
 # DaTa-AnD-FiLE-STRUCTURES-YOGESH
 # IGNOU
 # COURSE CODE - MCS021
-THIS Repositories is really help to IGNOU student.
+# THIS Repositories is really help to IGNOU student.
 
-# syllabus
+# syllabus💥
 
 ->Memory Allocation 
 .static 
