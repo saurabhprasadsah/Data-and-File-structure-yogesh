@@ -35,10 +35,10 @@ main()
 		           break;
 		           
 		           
-	        case 2: delete_node();
-	                break;
+	               case 2: delete_node();
+	                       break;
 	                
-	        case 3:display();
+	               case 3:display();
 			       break;
 			       
 			case 4:exit(0);
