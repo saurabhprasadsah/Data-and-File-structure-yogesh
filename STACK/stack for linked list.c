@@ -37,11 +37,11 @@ main()
 			       
 			case 2:pop();
 			       break;
-				   
-		    case 3:display();
+	  			   
+	       	        case 3:display();
 			       break;
 				   
-	        case 4:exit(0);
+	                case 4:exit(0);
 						   		          
 		}
 		
