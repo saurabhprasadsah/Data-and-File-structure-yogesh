@@ -1,5 +1,5 @@
 # DaTa-AnD-FiLE-STRUCTURES-YOGESH
-# IGNOU
+# IGNOU University
 # COURSE CODE - MCS021
 # THIS Repositories is really help to IGNOU student.
 
