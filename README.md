@@ -1,6 +1,6 @@
 # DaTa-AnD-FiLE-STRUCTURES-YOGESH
 # IGNOU University
-# COURSE CODE - MCS021
+# COURSE📗 CODE - MCS021
 # THIS Repositories is really help to IGNOU student.
 
 # syllabus💥
@@ -31,7 +31,7 @@
 .By using Linked list
 .LInear
 
-->Tree
+->Tree🏝
 .Binary Tree
 .complete Binary tree
 .Bill search
@@ -45,13 +45,13 @@
 ->Memory Represntation
 .B-Tree
 
-->Graph
+->Graph📈📊📉
 .Types of graph
 .Memory Representation of Graph
 .Traversing of graph
 .Minimum spaning Tree
 
-->Searching
+->Searching🔎🔍🔎🔍
 .Sequential Search
 .Binary search
 
