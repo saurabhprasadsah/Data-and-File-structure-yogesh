@@ -5,18 +5,18 @@
 
 # syllabus💥
 
-->Memory Allocation 
+# Memory Allocation 
 .static 
 .Dynamic
 
-->Linked list
+# Linked list
 .singly
 .doubly
 .circular
 
-->polynomids
+# polynomids
 
-->stack 
+# stack 
 .By using Array
 .By using Linked list
 .Double stack Implementation
