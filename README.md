@@ -21,41 +21,41 @@
 .By using Linked list
 .Double stack Implementation
 
-->polish notation
+# polish notation
 .Infix
 .prefix
 .postfix
 
-->Queue
+# Queue
 .By using Array
 .By using Linked list
 .LInear
 
-->Tree🏝
+# Tree🏝
 .Binary Tree
 .complete Binary tree
 .Bill search
 .Threaded Bill search
 
-->Trauersing of Tree
+# Trauersing of Tree
 .Inorder
 .preorder
 .postorder
 
-->Memory Represntation
+# Memory Represntation
 .B-Tree
 
-->Graph📈📊📉
+# Graph📈📊📉
 .Types of graph
 .Memory Representation of Graph
 .Traversing of graph
 .Minimum spaning Tree
 
-->Searching🔎🔍🔎🔍
+# Searching🔎🔍🔎🔍
 .Sequential Search
 .Binary search
 
-->Sorting
+# Sorting
 .Bubble sort
 .Heap sort
 .Quick sort
@@ -68,4 +68,4 @@
 ->Algorith
 
 
-# Happy coading
+# Happy coading😊😊😊😊
