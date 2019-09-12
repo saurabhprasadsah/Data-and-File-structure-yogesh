@@ -47,6 +47,12 @@ main()
 		 }  
 	}
 }
+//end of main()//
+// end of insert_node()//
+//end of delete_node()//
+//end of display()//
+
+
 
 
 void  insert_node(int n)
@@ -109,7 +115,7 @@ void display()
 	}
 }
 
-
+//Happy coding 
 
 
 
