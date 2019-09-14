@@ -47,6 +47,9 @@ main()
 		
 		}
 }// end of main()//
+// end of whhile()//
+//end of switch case//
+
 
 void push(int n)
 {
@@ -98,7 +101,8 @@ void pop()
 		free(node);
 	}
 }
-//end of pop()
+//end of pop()//
+
 void display()
 {
 	struct stack *node;
