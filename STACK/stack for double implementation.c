@@ -31,14 +31,16 @@ main(){
 				scanf("%d",&s);
 				pop(s);
 				break;
-		    case 3:
+		        case 3:
 				printf("\n enter the stack no:");
 				scanf("%d",&s);
 				display(s);
 				break;
 		}
 	}
-}
+}//end of main()//
+//end of while () //
+
 
 void push(int s)
 {
@@ -67,7 +69,7 @@ void push(int s)
 	
 	
 	}
-  /// end of push()///
+  /// end of push//
 
 void pop(int s)
 {
