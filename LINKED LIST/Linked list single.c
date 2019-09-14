@@ -48,9 +48,8 @@ main()
 	}
 }
 //end of main()//
-// end of insert_node()//
-//end of delete_node()//
-//end of display()//
+//en of while ()//
+//end of switch case()//
 
 
 
@@ -116,7 +115,7 @@ void display()
 }
 
 //Happy coding 
-
+😊😊😊
 
 
 
