@@ -1,7 +1,6 @@
-# DaTa-AnD-FiLE-STRUCTURES-YOGESH
+# DaTa-AnD-FiLE-STRUCTURES
 # IGNOU University
 # COURSE📗 CODE - MCS021
-# THIS Repositories is really help to IGNOU student.🙌🙌🙌
 
 # syllabus💥
 
@@ -65,7 +64,5 @@
 
 ->Sporse Matrix
 ->File organisation
-->Algorith
-
-# repo closed
+->Algorithm
 # Happy coading😊
