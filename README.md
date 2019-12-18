@@ -9,9 +9,9 @@
 .Dynamic
 
 # Linked list
-.singly
+.singly 
 .doubly
-.circular
+.circular linked list
 
 # polynomids
 
@@ -22,7 +22,7 @@
 
 # polish notation
 .Infix
-.prefix
+.prefix 
 .postfix
 
 # Queue
@@ -44,17 +44,17 @@
 # Memory Represntation
 .B-Tree
 
-# Graph📈📊📉
+# Graph📈📊📉 important
 .Types of graph
 .Memory Representation of Graph
 .Traversing of graph
 .Minimum spaning Tree
 
-# Searching🔎🔍🔎🔍
+# Searching🔎🔍🔎🔍 important
 .Sequential Search
 .Binary search
 
-# Sorting
+# Sorting important
 .Bubble sort
 .Heap sort
 .Quick sort
