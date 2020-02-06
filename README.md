@@ -1,19 +1,19 @@
 # DaTa-AnD-FiLE-STRUCTURES
-# IGNOU University
+# IGNOU `University`
 # COURSE📗 CODE - MCS021
 
 # syllabus💥
 
 # Memory Allocation 
-.static 
-.Dynamic
+. `static` 
+. `Dynamic`
 
 # Linked list
 .singly 
 .doubly
 .circular linked list
 
-# polynomids
+# `polynomids`
 
 # stack 
 .By using Array
