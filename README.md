@@ -62,9 +62,9 @@
 .Merge sort
 # code
 
-->Sporse Matrix
-->File organisation
-->Algorithm
+->`Sporse Matrix`
+-> `File organisation`
+->`Algorithm`
 # Happy coading😊
 
 # 
