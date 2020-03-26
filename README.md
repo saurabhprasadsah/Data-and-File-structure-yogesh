@@ -42,7 +42,7 @@
 .postorder
 
 # Memory Represntation
-.B-Tree
+.`B-Tree`
 
 # Graph📈📊📉 important
 .Types of graph
