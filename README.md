@@ -36,7 +36,7 @@
 .Bill search
 .Threaded Bill search
 
-# Trauersing of Tree
+# Traversing of Tree
 .Inorder
 .preorder
 .postorder
