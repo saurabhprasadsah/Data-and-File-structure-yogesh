@@ -14,7 +14,6 @@
 .circular linked list
 
 # `polynomids`
-
 # stack 
 .By using Array
 .By using Linked list
@@ -42,7 +41,7 @@
 .postorder
 
 # Memory Represntation
-.`B-Tree`
+. `B-Tree`
 
 # Graph📈📊📉 important
 .Types of graph
@@ -62,13 +61,10 @@
 .Merge sort
 # code
 
-->`Sporse Matrix`
+-> `Sporse Matrix`
 -> `File organisation`
-->`Algorithm`
+-> `Algorithm`
 -> `HASHING`
 -> `BST to Linkedlist Algo`
 
 # Happy coading😊
-
-# 
-💛💛💛💛
